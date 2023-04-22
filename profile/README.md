@@ -13,6 +13,7 @@
 <br />
 <p align=center>Credits to:</p>
 <p align=center>ffqq (maintainer)
+<br>TeknosQuet (member)
 <br>GlitchPhoenix98 (contrib)
 <br>
 <br>Prism Launcher contributors
